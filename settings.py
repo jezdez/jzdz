@@ -7,7 +7,7 @@ DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
-    ('Jannis Leidel', 'jannis@leidel.info'),
+    #('Your Name', 'your_email@domain.com'),
 )
 
 MANAGERS = ADMINS
@@ -51,7 +51,7 @@ MEDIA_URL = ''
 ADMIN_MEDIA_PREFIX = '/media/admin/'
 
 # Make this unique, and don't share it with anybody.
-SECRET_KEY = 'ru$%2_zc#hd9#((wikst*hl%+#ng-wyfbs2h+vua6oq!6^itwn'
+SECRET_KEY = 'SERIOUSLY_DUDE_CHANGE_THIS_IN_YOUR_INSTALL'
 
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (
