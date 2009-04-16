@@ -70,6 +70,8 @@ MIDDLEWARE_CLASSES = (
 
 ROOT_URLCONF = 'jzdz.urls'
 
+APPEND_SLASH = False
+
 INSTALLED_APPS = (
     'django.contrib.auth',
     'django.contrib.contenttypes',
