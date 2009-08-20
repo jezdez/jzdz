@@ -1,4 +1,4 @@
 -e git://github.com/jezdez/django-ittybitty.git#egg=django-ittybitty
-Django==1.0.2-final
+Django==1.1
 django-extensions
 django-dbtemplates
