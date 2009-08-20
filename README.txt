@@ -11,7 +11,7 @@ Installation of requirements:
     $ source jzdz/bin/activate
     $ (jzdz-env)easy_install pip
     [..]
-    $ (jzdz-env)pip install jzdz-reqs.zip
+    $ (jzdz-env)pip install jzdz-reqs.pybundle
 
 Running it:
 ----------
