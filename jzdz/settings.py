@@ -90,6 +90,7 @@ INSTALLED_APPS = (
     'nashvegas',
     'ittybitty',
     'dbtemplates',
+    'staticfiles',
 )
 
 try:
