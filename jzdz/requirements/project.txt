@@ -1,6 +1,7 @@
 -f http://shrub.appspot.com/jzdz/
 --extra-index-url=http://dist.gondor.io/dev/
-django-ittybitty
+
+django-ittybitty==0.1.0-pre3
 Django==1.2.5
 django-dbtemplates
 
