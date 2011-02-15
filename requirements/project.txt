@@ -2,5 +2,6 @@ https://github.com/jezdez/django-ittybitty/zipball/master
 Django==1.2.5
 django-dbtemplates
 
+nashvegas==0.5.2
 gondor==1.0a1.dev20
 psycopg2==2.3.2
