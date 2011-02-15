@@ -79,7 +79,7 @@ INSTALLED_APPS = (
     'django.contrib.sites',
     'django.contrib.admin',
     'django.contrib.flatpages',
-    'django_extensions',
+    'nashvegas',
     'ittybitty',
     'dbtemplates',
 )
