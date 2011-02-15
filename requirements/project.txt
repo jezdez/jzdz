@@ -1,4 +1,4 @@
--e git://github.com/jezdez/django-ittybitty.git#egg=django-ittybitty
+https://github.com/jezdez/django-ittybitty/zipball/master
 Django==1.2.5
 django-dbtemplates
 
