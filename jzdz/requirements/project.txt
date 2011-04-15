@@ -8,4 +8,4 @@ django-dbtemplates
 nashvegas==0.5.2
 gondor==1.0a1.dev20
 psycopg2==2.3.2
-django-staticfiles==0.3.4
+django-staticfiles==1.0.1
