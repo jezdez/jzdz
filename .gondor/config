@@ -2,3 +2,5 @@
 site_key = WDUJZ1Q5SAV
 vcs = git
 
+[app]
+migrations = nashvegas
